@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Joakim is a software engineer working in .NET since 2012. He has worked as user experience engineer creating applications in WPF; developed mobile applications using Xamarin; built web applications from SQL to JavaScript. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+He like it best when he can share his knowledge and work closely with the business to create simple, yet effective, solutions to grow the company.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Joakim currently works at Nordax Bank as technical lead specialized in backend development where he participates in solution design and seeking best-practices to increase developer productivty. On a daily basis he works with Azure DevOps, Docker, Octopus and ASP.NET Core.
 
-
-[jekyll-organization]: https://github.com/jekyll
