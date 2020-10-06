@@ -8,6 +8,8 @@ url: ""
 twitter_username: jcarselind
 github_username:  joacar
 
+google_analytics: UA-179718751-1
+
 # Build settings
 theme: minima
 plugins:
